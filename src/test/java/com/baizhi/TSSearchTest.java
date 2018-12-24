@@ -51,4 +51,11 @@ public class TSSearchTest {
         }
         indexReader.close();
     }
+
+
+
+    @Test
+    public  void aa(){
+        System.out.println("haha");
+    }
 }
